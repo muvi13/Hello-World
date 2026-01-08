@@ -1,0 +1,6 @@
+*@muvi13
+*.js@muvi-viv
+docs/*
+/docs/
+
+docs/myfile.js
